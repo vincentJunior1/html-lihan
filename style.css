@@ -14,7 +14,7 @@
         height: 120px !important;
     }
     .bg-travel {
-        background-color: #017A73 !important;
+        background-color: #FFEAD9 !important;
         height: 120px !important;
     }
     .nav-link-about-us{
@@ -25,11 +25,11 @@
         color: #FFEAD9 !important;
     }
     .nav-link-all {
-        color: #FFEAD9 !important;
+        color: #1E2245 !important;
     }
     .bg-students {
         background: rgb(255,172,168);
-        background: linear-gradient(90deg, rgba(255,172,168,1) 0%, rgba(255,133,146,1) 100%);
+        background: linear-gradient(90deg, rgba(254,186,103,1) 0%, rgba(226,128,76,1) 100%);
         height: 120px !important;
     }
     .navbar-expand-lg .navbar-collapse {
@@ -64,7 +64,7 @@
         text-align: center;
         font-family: 'Inter', sans-serif;
         line-height: 50px;
-        color: #825610;
+        color: #1e2245;
     }
     .about-us-content {
         background: rgb(255,234,217);
@@ -78,7 +78,7 @@
         width: 179px !important;
         height: 59px !important;
         background-color: #FEBA67 !important;
-        color:#ffff !important;
+        color:#1e2245 !important;
         font-size: 25px;
         font-family: 'Inter', sans-serif;
     }
@@ -95,14 +95,15 @@
         /* background: linear-gradient(90deg, rgba(255,172,168,1) 0%, rgba(255,133,146,1) 100%); */
     }
     .about-us-text {
-        color:#725610;
+        color:#1e2245;
         font-size:60px;
         font-family: 'Inter', sans-serif;
     }
     .about-us-desc {
         width: 391px;
-        color:#725610;
-        font-size:25px;
+        color:#f87b75;
+
+        font-size:18px;
         font-family: 'Inter', sans-serif;
         line-height: 30px;
     }
@@ -111,8 +112,8 @@
         width: 132px;
         height: 38px;
         border-radius:38px !important;
-        background-color: #FFACA8 !important; 
-        color:#FFEAD9 !important;
+        background-color: #1e2245 !important; 
+        color:#f87b75 !important;
     }
     .column-about-us{
         margin-top:-80px;
@@ -123,10 +124,13 @@
         position: absolute;
         right:40px;
         top:150px;
+        height: 600px;
+        width: 800px;
+        image-rendering: auto;
     }
     .bg-students {
-        background: rgb(255,172,168);
-        background: linear-gradient(90deg, rgba(255,172,168,1) 0%, rgba(255,133,146,1) 100%);
+        background: rgb(215,122,68);
+        background: linear-gradient(90deg, rgba(255,204,201,1) 0%, rgba(248,123,117,1) 100%);
         height: 120px !important;
     }
     .student-text{
@@ -139,7 +143,7 @@
         text-align: center;
         border-radius: 40px;
         font-family: 'Inter', sans-serif;
-        color: #825610;
+        color: #1e2245;
     }
     .background-student {
         /* margin-top:0px; */
@@ -168,7 +172,7 @@
         color:#825610 !important;
     }
     .travel-text {
-        background-color: #017A73 ;
+        background-color: #f87b75 ;
         height: 400px;
         /* width: 400px !important; */
         /* text-align: right !important; */
@@ -176,7 +180,7 @@
     }
     .squere-taiwan {
         position: absolute;
-        background-color: #628210;
+        background-color: #FFBA67;
         width: 345px;
         height: 80px;
         top:25px;
@@ -184,7 +188,7 @@
     }
     .squere-tourist {
         position: absolute;
-        background-color: #628210;
+        background-color: #FFBA67;
         width: 135px;
         height: 50px;
         top: 115px;
@@ -249,6 +253,7 @@
     .bg-contact {
         height:120px;
         background-color: #E2814D ;
+        background:linear-gradient(90deg, #FFBA67 0%, #E2814C 65%);
     }
     .card-contact {
         margin: auto;
@@ -273,8 +278,8 @@
         padding-top: 10px;
         width: 348px;
         height:54px;
-        background: rgb(238,193,2);
-        background: linear-gradient(0deg, rgba(238,193,2,1) 0%, rgba(255,204,0,1) 100%);
+        background: rgb(215,122,68);
+        background: linear-gradient(0deg,  rgba(254,186,103,1) 80%, rgba(226,128,76,1) 100%);
     }
     .about-contact {
         width: 217px;
@@ -297,7 +302,7 @@
         width: 113px !important;
         height:32px !important;
         color: white !important;
-        background: #FEBB01 !important;
+        background: #F87B75 !important;
         text-align: center;
         border-radius: 40px !important;
         padding-top: 4px !important;
@@ -305,7 +310,7 @@
         margin-top: 60px;
     }
     .btn-contact-more a{
-        color: white !important;
+        color: #FFEAD9 !important;
     }
     .form-label {
         color:#725610;
@@ -354,8 +359,8 @@
         height: 82px;
         font-size: 55px !important;
         font-family: 'Inter', sans-serif !important;
-        background: rgb(175,175,2);
-        background: linear-gradient(90deg, rgba(175,175,2,1) 0%, rgba(255,255,255,1) 100%);
+        background: rgb(255,172,146,1);
+        background: linear-gradient(90deg, rgba(255,172,146,1) 0%, rgba(255,255,255,1) 100%);
         color: white !important;  
     }
     .icon-sosmed {
